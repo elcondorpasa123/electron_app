@@ -5,7 +5,7 @@ module.exports = {
       config: {
         repository: {
           owner: 'elcondorpasa123',
-          name: 'github-repo-name',
+          name: 'electron_app',
         },
         prerelease: false,
         draft: true,
