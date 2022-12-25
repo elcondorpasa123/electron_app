@@ -1,0 +1,13 @@
+.idea/
+.vs/
+target/
+build32/
+build64/
+windows-debug/
+windows-release/
+windows-default/
+.cmake/
+CMakeFiles/
+vcpkg_installed/
+out/
+node_modules/
